@@ -43,8 +43,8 @@
 
 
 ## NO 3. **Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:**
-    ![3.1](img/3.1.png)
    - Dalam menjawab pertanyaan terkait paket dengan IP dan port tertentu, kita menggunakan display filtering yang sesuai.
+    ![3.1](img/3.1.png)
    - Dalam contoh di bawah, terdapat 21 paket dengan protokol UDP.
     ![3.2](img/3.2.png)
 
