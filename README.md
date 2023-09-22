@@ -81,6 +81,8 @@ Kemudian berdasarkan hint maka kita menggunakan substitusi a1z26 chiper, kemudia
 
 ![Screenshot soal 6](img/soal6(2).png)
 
+![Screenshot soal 6](img/soal6(3).png)
+
 Kendala : Kita cukup kesulitan memahami maksud dan clue-clue yang diberikan soal pertama kali sehingga membutuhkan waktu yang cukup lama untuk menyelesaikan soal nomor 6.
 
 ## NO 7
@@ -116,4 +118,5 @@ Kita dapat menggunakan metode yang sama dengan nomor 8 yaitu melakukan display f
 Ketika kita login menggunakan telnet, maka data akun dan password kita dapat dengan mudah dilihat saat menggunakan wireshark. Untuk itu kita cari paket dengan protokol TELNET yang berada paing akhir agar mengetahui semua percakapan yang terjadi, kemudian kita follow TCP stream dan terlihat akun username dan passwordnya. Yang perlu diperhatikan disini adalah bahwa username pada TELNET ditulis dua kali sehingga username dari soal tersebut adalah dafin.
 
 ![Screenshot soal 9](img/soal10.png)
+![Screenshot soal 9](img/soal10(2).png)
 
