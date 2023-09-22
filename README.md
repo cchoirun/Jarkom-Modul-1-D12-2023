@@ -61,4 +61,10 @@ Kita dapat menggunakan metode yang sama dengan nomor 8 yaitu melakukan display f
 
 ![Screenshot soal 9](img/soal9.png)
 
+## NO 10
+*Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet!*
+
+Ketika kita login menggunakan telnet, maka data akun dan password kita dapat dengan mudah dilihat saat menggunakan wireshark. Untuk itu kita cari paket dengan protokol TELNET yang berada paing akhir agar mengetahui semua percakapan yang terjadi, kemudian kita follow TCP stream dan terlihat akun username dan passwordnya. Yang perlu diperhatikan disini adalah bahwa username pada TELNET ditulis dua kali sehingga username dari soal tersebut adalah dafin.
+
+![Screenshot soal 9](img/soal10.png)
 
